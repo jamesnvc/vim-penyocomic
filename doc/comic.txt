@@ -1,0 +1,59 @@
+*comic.txt*   A plugin implementing support for PenyoPal Comic files
+
+Our comics are controlled by simple scripts, this plugin gives some basic
+support for editing them.
+
+==============================================================================
+CONTENTS                                                  *Comic-contents*
+
+    1. Introduction ................................ |ComicIntro|
+    2. License ..................................... |ComicLicense|
+    3. Bugs ........................................ |ComicBugs|
+    4. Contributing ................................ |ComicContributing|
+    5. Changelog ................................... |ComicChangelog|
+    6. Credits ..................................... |ComicCredits|
+
+
+==============================================================================
+1. Introduction                                              *ComicIntro*
+
+Simply adds syntax highlighting, code-folding, and indentation to Comic
+files.
+
+==============================================================================
+2. License                                                  *ComicLicense*
+
+Comic.vim is copyright James Cash & contributors, 2012+ and is licensed
+under the Do Whatever the Fuck You Want Licence.
+
+==============================================================================
+3. Bugs                                                        *ComicBugs*
+
+Please report any bugs you may find on the GitHub issue tracker:
+
+    http://github.com/jamesnvc/vim-penyocomic/issues
+
+==============================================================================
+4. Contributing                                        *ComicContributing*
+
+Think you can make Comic.vim better?  Awesome.  New contributors are always
+welcome.
+
+Fork the project on BitBucket or GitHub and send a pull request.
+
+    GitHub:    http://github.com/jamesnvc/potion
+
+==============================================================================
+5. Changelog                                              *ComicChangelog*
+
+v0.0.1
+    * Basic stuff implemented
+
+==============================================================================
+6. Credits                                                 *ComicCredits*
+
+I wrote this. Yay!
+
+==============================================================================
+
+ vim:ts=4:et:ft=help:
