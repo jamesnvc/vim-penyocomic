@@ -8,7 +8,7 @@ syntax keyword comicPosition center left right top bottom
 
 syntax match comicComment "\v#.*$"
 
-syntax match comicNumber "\v-?\d+(\.\d+)?"
+syntax match comicNumber "\v<-?\d+(\.\d+)?"
 syntax match comicNumberBlocking /\v-?\d+(\.\d+)?b/hs=e containedin=comicNumber contained
 
 highlight link comicFunction Function
