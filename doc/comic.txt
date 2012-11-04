@@ -1,5 +1,10 @@
 *comic.txt*   A plugin implementing support for PenyoPal Comic files
-
+          ___                         ___                _           ~
+         / _ \___ _ __  _   _  ___   / __\___  _ __ ___ (_) ___      ~
+        / /_)/ _ \ '_ \| | | |/ _ \ / /  / _ \| '_ ` _ \| |/ __|     ~
+       / ___/  __/ | | | |_| | (_) / /__| (_) | | | | | | | (__      ~
+       \/    \___|_| |_|\__, |\___/\____/\___/|_| |_| |_|_|\___|     ~
+                        |___/                                        ~
 Our comics are controlled by simple scripts, this plugin gives some basic
 support for editing them.
 
